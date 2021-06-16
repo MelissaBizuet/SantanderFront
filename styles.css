@@ -1,0 +1,20 @@
+h1{
+    color: rgba(48, 23, 71, 0.795);
+}
+h2{
+    color: #1758db;
+}
+p{
+    color: #8b8b8bcc;
+}
+button{
+    color: #ffff;
+    background-color: #025157;
+    border-radius: 5vw;
+}
+body{
+    background-color: #fffbf7;
+    background: url(https://image.freepik.com/foto-gratis/suave-nublado-es-degradado-pastel-fondo-cielo-abstracto-color-dulce_6529-1108.jpg);
+    background-repeat: no-repeat;
+    background-size: 300ex;    
+}
